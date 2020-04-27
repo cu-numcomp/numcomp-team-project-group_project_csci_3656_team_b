@@ -1,4 +1,5 @@
 # Hey guys, we'll need to get in contact with each other in order to decide on our project. Is it alright if we use a facebook messenger group? My phone cannot handle group texts. If so, friend me on facebook. I'm MingMing Sun. If that doesn't work, then please leave other suggestions in here! 
+MM's email: zhsu0868@colorado.edu
 
 # Team Project: Numerics in Open Source Software
 
