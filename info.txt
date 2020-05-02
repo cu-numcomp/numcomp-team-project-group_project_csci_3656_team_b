@@ -1,0 +1,12 @@
+Ok, so here are the potential things we can examine
+
+1. doing a benchmark time comparision of Theano vs Sympy symbolic differentiation
+2. attempt to produce a meaningful(?) computational graph of some symbolic differentiation
+3. ? 
+
+I think 1 is the easiest, because the general framework has already been set up. All we need to do is run some more complicated derivatives, and 
+figure out how to do time comparisions. Anyone opposed to that idea? 
+
+
+Official tutorial to theano. It's relatively straightforward, but please message me if you have any questions
+http://www.deeplearning.net/software/theano/index.html
